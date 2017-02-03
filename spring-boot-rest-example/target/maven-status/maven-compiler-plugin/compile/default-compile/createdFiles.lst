@@ -1,0 +1,13 @@
+com\sana\fare\api\rest\docs\SwaggerConfig.class
+com\sana\fare\service\FareService.class
+com\sana\fare\exception\ResourceNotFoundException.class
+com\sana\fare\api\rest\AbstractRestHandler.class
+com\sana\Application.class
+com\sana\fare\service\FareServiceEvent.class
+com\sana\fare\api\rest\FareController.class
+com\sana\fare\exception\DataFormatException.class
+com\sana\fare\domain\RestErrorInfo.class
+com\sana\fare\service\ServiceProperties.class
+com\sana\fare\service\FareServiceHealth.class
+com\sana\fare\dao\jpa\IFareRepository.class
+com\sana\fare\domain\Fare.class
